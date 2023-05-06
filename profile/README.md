@@ -14,7 +14,7 @@ Anyone can contribute to the existing vocabularies or create a new one, which wi
 
 ## Examples of Linked Data Vocabularies
 
-Here are some of the popular vocabularies in our organization:
+Here are some of the popular vocabularies:
 
 - [Schema.org](https://schema.org): A widely used vocabulary for structured data on the internet.
 - [FOAF](http://xmlns.com/foaf/0.1/): A vocabulary for describing people, relationships, and activities.
